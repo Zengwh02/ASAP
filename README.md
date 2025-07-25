@@ -23,7 +23,7 @@ utils/: Helper utilities and common functions used throughout the codebase.
 
 ## 🤖 Model Release
 
-We release LogicCoder-7B and LogicCoder-8B, using our ASAP-pruned dataset derived from open-r1/codeforces-cots.
+We release LogicCoder-7B and LogicCoder-8B, fine-tuned on our ASAP-pruned dataset derived from open-r1/codeforces-cots.
 
 You can try our model on Hugging Face: [LogicCoder-7B](https://huggingface.co/azzzacs/LogicCoder-7B) and [LogicCoder-8B](https://huggingface.co/azzzacs/LogicCoder-8B)
 

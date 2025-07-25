@@ -1,7 +1,7 @@
 # ASAP
 This is the official repository for the paper:
 
-“Pruning the Unsurprising: Efficient Code Reasoning via First-Token Surprisal in Large Language Models.”
+**“Pruning the Unsurprising: Efficient Code Reasoning via First-Token Surprisal in Large Language Models.”**
 
 In this paper, we propose **ASAP** (**A**nchor-guided, **S**urpris**a**l-polished **P**runing), a novel two-stage framework for CoT compression.
 

@@ -1,7 +1,7 @@
 # ASAP
 This is the official repository for the paper:
 
-[**“Pruning the Unsurprising: Efficient Code Reasoning via First-Token Surprisal.”**](https://arxiv.org/abs/2508.05988)
+[**“Pruning the Unsurprising: Efficient LLM Reasoning via First-Token Surprisal.”**](https://arxiv.org/abs/2508.05988)
 
 In this paper, we propose **ASAP** (**A**nchor-guided, **S**urpris**a**l-based **P**runing), a novel two-stage framework for CoT compression.
 
